@@ -1,7 +1,7 @@
 """
 main.py
 
-This module contains a simple function to increment a number and prints the result when run directly.
+This module contains a function to increment a number and prints the result when run directly.
 """
 
 def increment(num):
