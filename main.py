@@ -9,6 +9,6 @@ def increment(num):
     return num + 1
 
 if __name__ == "__main__":
-    initial_number = 0
-    incremented_number = increment(initial_number)
-    print(f"The incremented number is: {incremented_number}")
+    INITIAL_NUMBER = 0
+    INCREMENTED_NUMBER = increment(INITIAL_NUMBER)
+    print(f"The incremented number is: {INCREMENTED_NUMBER}")
